@@ -2,10 +2,10 @@
 
 Roll dices on your phone
 <br />
-<br /> Layout ✔
+<br /> Layout MR 1 ✔
 <br />
 <img src="readme/mr1.png">
 <br />
-<br /> Functionality ✘
+<br /> Functionality MR 2 ✔
 <br />
-...
+<img src="readme/mr2.gif">
